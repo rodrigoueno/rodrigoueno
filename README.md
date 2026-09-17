@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Rodrigo 👋</h1>
 
-<!--
-**rodrigoueno/rodrigoueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;React+%2B+.NET+%2F+C%23;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/rodrigo-ueno-0025a83a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Paragu%C3%A7u%2FMG-informational?style=for-the-badge" alt="Localização" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 Sobre mim
+
+- 🏠 Trabalhando remotamente (home office)
+- 🚀 Foco em desenvolvimento **Full Stack**, unindo front-end em React com back-end em .NET/C#
+- 🛠️ Gosto de construir sistemas completos: da interface ao banco de dados
+- 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/rodrigo-ueno-0025a83a)
+
+---
+
+### 🛠️ Minha Stack
+
+**Front-end**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css" alt="Front-end stack" />
+</p>
+
+**Back-end**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs" alt="Back-end stack" />
+</p>
+
+**Banco de dados & Ferramentas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mssql,git,github,vscode" alt="Ferramentas" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rodrigoueno&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoueno&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoueno&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigoueno&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rodrigoueno&style=for-the-badge&color=blue" alt="Profile Views" />
+</p>
