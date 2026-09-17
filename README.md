@@ -27,7 +27,7 @@
 **Front-end**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css" alt="Front-end stack" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" alt="Front-end stack" />
 </p>
 
 **Back-end**
